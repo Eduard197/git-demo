@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="721a35b6-9cb8-436a-9f36-c4095963ee89" name="Changes" comment="внесли зміни  file texst.txt,qwe.txt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/texst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/texst.txt" afterDir="false" />
+    <list default="true" id="721a35b6-9cb8-436a-9f36-c4095963ee89" name="Changes" comment="додаю в перший коміт">
+      <change afterPath="$PROJECT_DIR$/texst.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,43 +13,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="newbranch" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="33YA87TLv3CIbA9H5E3R9QBUPza" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-Quokka Notifications&quot;: &quot;Quokka Notifications&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-WindowsDefender&quot;: &quot;Microsoft Defender may affect IDE&quot;,
-    &quot;Notification.DoNotAsk-Quokka Notifications&quot;: &quot;true&quot;,
-    &quot;Notification.DoNotAsk-WindowsDefender&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-Quokka Notifications": "Quokka Notifications",
+    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender may affect IDE",
+    "Notification.DoNotAsk-Quokka Notifications": "true",
+    "Notification.DoNotAsk-WindowsDefender": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759483470418</updated>
-      <workItem from="1759483471749" duration="2362000" />
+      <workItem from="1759483471749" duration="979000" />
     </task>
     <task id="LOCAL-00001" summary="перший коміт">
       <option name="closed" value="true" />
@@ -83,39 +74,7 @@
       <option name="project" value="LOCAL" />
       <updated>1759484235088</updated>
     </task>
-    <task id="LOCAL-00003" summary="cтворив file texst.txt">
-      <option name="closed" value="true" />
-      <created>1759484576476</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1759484576476</updated>
-    </task>
-    <task id="LOCAL-00004" summary="внесли зміни file texst.txt">
-      <option name="closed" value="true" />
-      <created>1759484739238</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1759484739238</updated>
-    </task>
-    <task id="LOCAL-00005" summary="створив  file asd.txt,qwe.txt і додав зміни">
-      <option name="closed" value="true" />
-      <created>1759485134402</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1759485134402</updated>
-    </task>
-    <task id="LOCAL-00006" summary="внесли зміни  file texst.txt,qwe.txt">
-      <option name="closed" value="true" />
-      <created>1759485348756</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1759485348756</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,10 +94,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="перший коміт" />
     <MESSAGE value="додаю в перший коміт" />
-    <MESSAGE value="cтворив file texst.txt" />
-    <MESSAGE value="внесли зміни file texst.txt" />
-    <MESSAGE value="створив  file asd.txt,qwe.txt і додав зміни" />
-    <MESSAGE value="внесли зміни  file texst.txt,qwe.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="внесли зміни  file texst.txt,qwe.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="додаю в перший коміт" />
   </component>
 </project>
